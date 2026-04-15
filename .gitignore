@@ -1,3 +1,7 @@
+# Data files (large)
+data/dst-3.0_16_1_hh_database.csv
+data/ExchangeRates.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
