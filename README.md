@@ -1,4 +1,4 @@
-# Анализ резюме HeadHunter: Преобразование и исследование данных
+# Анализ резюме HeadHunter: Анализ преобразование и исследование данных
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.3+-green.svg)](https://pandas.pydata.org/)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 О проекте
+## 📌 Цели и задачи проекта
 
 Проект представляет собой анализ датасета с резюме HeadHunter по городам РФ.  
 Цель — выявить ключевые факторы, влияющие на зарплатные ожидания соискателей, и подготовить данные для построения прогнозных моделей.
@@ -29,8 +29,8 @@
 | `dst-3.0_16_1_hh_database.csv` | База резюме HeadHunter (44 744 записи) | 450+ МБ |
 | `ExchangeRates.csv` | Курсы валют для пересчета зарплат | ~1 МБ |
 
-📥 **Ссылка для скачивания:** [Yandex Disk](https://disk.yandex.ru/d/70kVTwvtyDj2jA
-https://disk.yandex.ru/d/uLRUk5F3VHEQ3Q)
+📥 **Ссылка для скачивания:** [Yandex Disk](https://https://disk.yandex.ru/d/s5vB8VHXWpzwkw
+https://disk.yandex.ru/d/__j6UUryslhq1Q)
 
 ---
 
